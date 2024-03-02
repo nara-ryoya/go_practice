@@ -1,0 +1,5 @@
+{
+    "nuxt.isNuxtApp": false,
+    "github.copilot.editor.enableAutoCompletions": false,
+    "go.vetOnSave": "off"
+}
